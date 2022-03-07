@@ -11,4 +11,21 @@
 
 런던 금속거래소
 
-테슬라 주가 예측
+테슬라 주가 예측, salc
+
+배터리 원자재 : 리튬, 니켈, 코발트 o 
+
+종합지수 : 나스닥 o , 상해종합주가지수
+전기차 생산량 : 
+배터리 생산량 : 
+
+유가 :  https://www.petronet.co.kr/main2.jsp o
+
+전기차 etf : Global X Autonomous And Electric Vehicles ETF o
+
+미국 전기세 : Energy Information Association
+
+모터 원자재 : 희토류 o
+
+
+nan값처리 : https://rfriend.tistory.com/636
